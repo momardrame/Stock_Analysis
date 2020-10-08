@@ -1,4 +1,4 @@
-<img src="sa.jpg" alt="drawing" width="300"/>
+<img src="sa.jpeg" alt="drawing" width="300"/>
 
 # Stock Analysis
 

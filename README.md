@@ -12,8 +12,8 @@ The purpose of this project is to conduct an analysis of a stock using VBA.
 Using your Kickstarter data set Excel workbook, create two additional sheets. Name them "Outcomes Based on Launch Date" and "Outcomes Based on Goals."
 
 ### In the "Outcomes Based on Goals" sheet, do the following: 
-- Create 8 new columns with the following headings
--- Goal
+#### Create 8 new columns with the following headings
+##### Goal
 -- Number Successful
 -- Number Failed
 -- Number Canceled

@@ -30,6 +30,6 @@ Create 8 new columns with the following headings
 - Create a line chart to visualize the relationship between the goal amount and the campaign’s chances of success, failure, or cancellation.
 - Save the line chart as a .png image. 
 
-#### In the "Outcomes Based on Launch Date" sheet, do the following:
+### In the "Outcomes Based on Launch Date" sheet, do the following:
 - Create a pivot table that charts the outcome of each Kickstarter project based on the launch date.
 - Set the “Parent Category” filter to “theater” and save the chart as a .png image, like the one below.

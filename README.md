@@ -3,7 +3,7 @@
 # Stock Analysis
 
 ## Project Overview
-The purpose of this project is to conduct stock analysis of a stock using VBA.
+The purpose of this project is to conduct an analysis of a stock using VBA.
 
 ## Resources
 - MS Excel

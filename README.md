@@ -13,15 +13,16 @@ Using your Kickstarter data set Excel workbook, create two additional sheets. Na
 
 ### In the "Outcomes Based on Goals" sheet, do the following: 
 #### Create 8 new columns with the following headings
-##### Goal
--- Number Successful
--- Number Failed
--- Number Canceled
--- Total Projects
--- Percentage Successful
--- Percentage Failed
--- Percentage Canceled
-### In the Goal column, create 12 new rows to sort each project. This will hold each goal range we're charting: 
+- Goal
+- Number Successful
+- Number Failed
+- Number Canceled
+- Total Projects
+- Percentage Successful
+- Percentage Failed
+- Percentage Canceled
+
+##### In the Goal column, create 12 new rows to sort each project. This will hold each goal range we're charting: 
 
 Goal column with twelve rows of ranges
 -- Use COUNTIFS()to count the number of successful, failed, and canceled projects within the newly defined ranges. (Filter the Kickstarter sheet to show only the Plays subcategory, otherwise, our scope includes all campaigns instead of the ones we are interested in.) Populate the appropriate columns.

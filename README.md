@@ -33,3 +33,10 @@ In the Goal column, create 12 new rows to sort each project. This will hold each
 ### In the "Outcomes Based on Launch Date" sheet, do the following:
 - Create a pivot table that charts the outcome of each Kickstarter project based on the launch date.
 - Set the “Parent Category” filter to “theater” and save the chart as a .png image, like the one below.
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
